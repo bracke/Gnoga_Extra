@@ -2,7 +2,7 @@ name = "gnoga_extra"
 description = "Types and Create operations for frequently combined Gnoga widgets"
 version = "20180719"
 
-authors = ["Bent Bracke"]
+authors = ["Jeff Carter"]
 maintainers = ["Bent Bracke <bent@bracke.dk>"]
 maintainers-logins = ["bracke"]
 licenses = "BSD-3-Clause"
@@ -15,4 +15,3 @@ tags = ["gnoga", "widgets", "types"]
 
 [[depends-on]] # Avoid bug in GNAT 13
 gnat = "<13.0 | >=13.3"
-
