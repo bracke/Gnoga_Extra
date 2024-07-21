@@ -9,6 +9,10 @@ licenses = "BSD-3-Clause"
 website = "https://github.com/bracke/Gnoga_Extra.git"
 tags = ["gnoga", "widgets", "types"]
 
+long-description = """
+Types and Create operations for frequently combined Gnoga widgets.
+"""
+
 [build-switches]
 "*".style_checks = "No"
 "*".ada_version = "Ada12"
